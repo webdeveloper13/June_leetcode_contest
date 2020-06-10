@@ -22,3 +22,6 @@ Day 7: Coin Change 2(Combination)
 Day 8: Power of 2
 
 Day 9: Is Subsequence
+
+Day 10:  Search Insert Position
+
