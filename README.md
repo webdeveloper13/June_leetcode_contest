@@ -44,3 +44,7 @@ Day 17: Surrounded Regions
 Day 18: H-Index II
 
 Day 19: Longest Duplicate Substring
+
+Day 20: Permutation Sequence
+
+Day 21:Dungeon Game
