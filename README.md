@@ -1,7 +1,7 @@
 # June_leetcode_contest
 This repository will have all my solutions to all the problems of June Leetcode challenge
 
-#Week 1
+# Week 1
 
 Day 1: Invert Binary Tree
 
@@ -17,7 +17,7 @@ Day 6:Queue Reconstruction by Height
 
 Day 7: Coin Change 2(Combination)
 
-#Week 2
+# Week 2
 
 Day 8: Power of 2
 
@@ -33,7 +33,7 @@ Day 13 :Largest Divisible Subset
 
 Day 14: Cheapest Flights Within K Stops
 
-#Week 3
+# Week 3
 
 Day 15: Search in a Binary Search Tree
 
@@ -49,7 +49,7 @@ Day 20: Permutation Sequence
 
 Day 21:Dungeon Game
 
-#WEEK 4
+# WEEK 4
 
 Day 22: Single Number II
 
@@ -65,7 +65,7 @@ Day 27:Perfect Squares
 
 Day 28:Reconstruct Itinerary
 
-#Week 5
+# Week 5
 
 Day 29:Unique Paths
 
